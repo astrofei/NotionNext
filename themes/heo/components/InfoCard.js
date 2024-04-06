@@ -51,7 +51,7 @@ export function InfoCard(props) {
                         }
                     </div>
                 </div>
-                <MoreButton />
+               /* <MoreButton /> */
             </div>
         </Card>
   )
